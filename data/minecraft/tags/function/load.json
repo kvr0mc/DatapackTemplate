@@ -1,6 +1,6 @@
 {
     "values":[
-        "mypack:load"
+        "mypack:core/load"
     ],
     "replace":false
 }
