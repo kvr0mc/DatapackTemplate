@@ -1,6 +1,5 @@
 {
     "values":[
-        "mypack:core/load"
-    ],
-    "replace":false
+        "k0:core/load"
+    ]
 }

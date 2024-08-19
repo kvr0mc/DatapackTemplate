@@ -1,0 +1,9 @@
+{
+    "condition": "minecraft:value_check",
+    "value": {
+        "type": "minecraft:storage",
+        "storage": "k0:k0",
+        "path": "installed"
+    },
+    "range": 1
+}

@@ -1,6 +1,5 @@
 {
     "values":[
-        "mypack:core/tick"
-    ],
-    "replace":false
+        "k0:core/tick"
+    ]
 }

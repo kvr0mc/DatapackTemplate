@@ -1,0 +1,6 @@
+{
+    "values": [
+        "k0:core/install",
+        "mypack:core/install"
+    ]
+}
